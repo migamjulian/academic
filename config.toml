@@ -67,7 +67,7 @@ defaultContentLanguageInSubdir = false
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
-  keybase = "migamjulian"
+  keybase = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
