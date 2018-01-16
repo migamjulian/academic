@@ -55,7 +55,7 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Friedrich-Schiller University of Jena", url = "http://www.geographie.uni-jena.de/Julian.html" }, { name = "Bandung Istitute of Technology", url = "https://www.itb.ac.id/staff/view/miga-magenika-julian-swe" } ]
+  organizations = [ { name = "Friedrich-Schiller University of Jena", url = "http://www.geographie.uni-jena.de/Julian.html" }, { name = "Bandung Institute of Technology", url = "https://www.itb.ac.id/staff/view/miga-magenika-julian-swe" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "miga.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -67,7 +67,7 @@ defaultContentLanguageInSubdir = false
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
-  keybase = ""
+  keybase = "migamjulian"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -75,7 +75,7 @@ defaultContentLanguageInSubdir = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "itblogo.png"
+  logo = ""
 
   # Enable/disable map in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
