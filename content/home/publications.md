@@ -37,7 +37,6 @@ exclude_selected = false
 +++
 
 #### Peer-reviewed publications:
-* Wahyuono, R.A., **Julian, M.M.** (submitted). Revisiting Renewable Energy Map in Indonesia: Seasonal Hydro and Solar Energy Potential for Rural Off-Grid Electrification (Provincial Level)
 
 * [Poerbandono, **Julian, M.M.**, Ward, P.J. (2014). Assessment of the effects of climate and land cover changes on river discharge and sediment yield, and an adaptive spatial planning in the Jakarta region. Natural Hazards Sept. 2014, Vol. 3, Issue 2, pp 507-530.](http://link.springer.com/10.1007/s11069-014-1083-x)
 
