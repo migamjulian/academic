@@ -22,7 +22,7 @@ weight = 5
   year = 2011
 
 [[education.courses]]
-  course = "BSc in Geodesy and Geomatics"
+  course = "BEng in Geodesy and Geomatics"
   institution = "Bandung Institute of Technology"
   year = 2008
  
