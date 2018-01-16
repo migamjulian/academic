@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Miga Magenika Julian"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -43,27 +43,27 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "dark"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  # name = "Miga Magenika Julian"
+  role = "PhD student in GIScience"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Friedrich-Schiller University of Jena", url = "http://www.geographie.uni-jena.de/Julian.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "miga.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "miga-magenika.julian@uni-jena.de"
+  address = "Lehrstuhl für Geoinformatik, Room 125, Grietgasse 6, 07743 Jena, Germany"
+  office_hours = "Always"
+  phone = "+49-3641-9-48877"
+  skype = "miga.m.julian"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -92,10 +92,10 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "50.926762"
+  longitude = "11.587387"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -217,22 +217,44 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
-
+    link = "mailto:miga-magenika.julian@uni-jena.de"
+  
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.de/citations?user=DbJiDlUAAAAJ&hl=id"
+    
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Miga_Julian"
+    
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://de.linkedin.com/in/miga-magenika-julian-7b775a84"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/migamjulian"
+  
+   [[params.social]]
+    icon = "facebook"
+    icon_pack = "fa"
+    link = "https://www.facebook.com/miga.m.julian"
+    
+   [[params.social]]
+    icon = "instagram"
+    icon_pack = "fa"
+    link = "https://www.instagram.com/migamjulian/"
+    
+   [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/migamjulian"
+
+
 
 
 # Navigation Links
@@ -253,20 +275,20 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+# [[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+# [[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
