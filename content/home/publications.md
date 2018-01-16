@@ -81,6 +81,6 @@ exclude_selected = false
 ### Report:
 * Ward, P.J., van Ierland, E.C., Budiyono, Y., Wijayanti, P., Muis, S., Marfai, M.A., Poerbandono, **Julian, M.M.**, Fauzi, A. (2014). Jakarta Climate Adaptation Tools (JCAT). National Research Programme Knowledge for Climate/Nationaal Onderzoekprogramma Kennis voor Klimaat (KvK).
 
-### Intellectual property
+### Intellectual property:
 
 * [Poerbandono, Muttaqin, R.A., **Julian, M.M.** (1 November 2017). Application number: C00201704845. Computer Software: SDAS (Spatial Decision Assistance of the Watershed Sedimentation). Date first time announced: 30 January 2014](http://e-statushki.dgip.go.id/index.php/penelusuran/hakcipta/C00201704845)
