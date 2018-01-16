@@ -59,7 +59,7 @@ exclude_selected = false
 
 * Ward, P.J., Budiyono, Y., van Ierland, E.C., Marfai, M.A., Poerbandono, Wijayanti, P., **Julian,M.M.** (2014). Jakarta Climate Adaptation Tools. Deltas in Times of Climate Change II International Conference, 26-26 Sept. 2014. Rotterdam, the Netherlands.
 
-* **Julian, M.M.**, Fink, M., Fischer, C., Krause, P., Fl¨ugel, W.-A. (2013). Implementation of J2000 Hydrological Model in the Western Part of Java Island, Indonesia. MacroTrend Conference on Applied Science, 20-21 December 2013, Paris, France.
+* **Julian, M.M.**, Fink, M., Fischer, C., Krause, P., Flügel, W.-A. (2013). Implementation of J2000 Hydrological Model in the Western Part of Java Island, Indonesia. MacroTrend Conference on Applied Science, 20-21 December 2013, Paris, France.
 
 * Poerbandono, Ward, P.J., **Julian, M.M.**, Marfai, M.A. (2011), Landuse, Climate, and Policy effects on River Discharge and Sediment Yield in Jakarta. Abstract Book. International Conference on World Delta Summit 2011. Jakarta, Indonesia.
 
