@@ -37,4 +37,4 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-
+2017 - GIS Specialist: Masterplan Pengembangan Kawasan di Koridor Jalan Tol (Toll Corridor Development/TCD). Jasa Marga, PT Aria Graha.
