@@ -10,7 +10,7 @@ title = "Miga Magenika Julian"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018; Miga Magenika Julian"
+copyright = "&copy; 2018 Miga Magenika Julian"
 
 theme = "academic"
 enableEmoji = true
