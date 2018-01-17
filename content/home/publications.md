@@ -36,7 +36,6 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-```
 #### Peer-reviewed publications:
  
 > * [Poerbandono, **Julian, M.M.**, Ward, P.J. (2014). Assessment of the effects of climate and land cover changes on river discharge and sediment yield, and an adaptive spatial planning in the Jakarta region. Natural Hazards Sept. 2014, Vol. 3, Issue 2, pp 507-530.](http://link.springer.com/10.1007/s11069-014-1083-x)
@@ -48,7 +47,7 @@ exclude_selected = false
 > * [**Julian, M.M.**, Nishio, F., Poerbandono, Ward, P.J. (2011). Simulation of River Discharges in Major Watersheds of North-Western Java from 1901 to 2006. Intl. J. of Tech. 2011 Vol. 2 Issue 1, 37-46.](http://www.ijtech.eng.ui.ac.id/index.php/journal/article/view/44)
 
 > * [Poerbandono, Ward, P.J., **Julian, M.M.** (2009). Set up and calibration of a spatial tool for simulating latest decades’ flow discharge of western Java: Preliminary result and assessments. ITB J. Eng. Sci. Vol. 41, No. 1, 50-64.](http://journal.itb.ac.id/index.php?li=article_detail&id=331RL)
-```
+
 #### Proceedings and presentations:
 
 > * **Julian, M.M.**, Fink, M., Kralisch, S., Brenning, A. (2017). Hydrological Responses over the Upper Citarum Basin Based on the Spatial Plan of West Java Province 2029. The Third International Conference on Sustainable Infrastructure and Built Environment (SIBE 2017), 26-27 September 2017, Bandung, Indonesia.
