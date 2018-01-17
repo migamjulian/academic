@@ -37,7 +37,7 @@ exclude_selected = false
 +++
 
 #### Peer-reviewed publications:
-
+> Blockquote
 * [Poerbandono, **Julian, M.M.**, Ward, P.J. (2014). Assessment of the effects of climate and land cover changes on river discharge and sediment yield, and an adaptive spatial planning in the Jakarta region. Natural Hazards Sept. 2014, Vol. 3, Issue 2, pp 507-530.](http://link.springer.com/10.1007/s11069-014-1083-x)
 
 * [Poerbandono, Harto, A.B., **Julian, M.M.** (2014). Spatial Decision Assistance of Watershed Sedimentation (SDAS): Development and application. J. Eng. Technol. Sci., Vol. 46, No. 1, 37-57.](http://journal.itb.ac.id/index.php?li=article_detail&id=1325)
