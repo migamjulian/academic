@@ -47,6 +47,7 @@ exclude_selected = false
 * [**Julian, M.M.**, Nishio, F., Poerbandono, Ward, P.J. (2011). Simulation of River Discharges in Major Watersheds of North-Western Java from 1901 to 2006. Intl. J. of Tech. 2011 Vol. 2 Issue 1, 37-46.](http://www.ijtech.eng.ui.ac.id/index.php/journal/article/view/44)
 
 * [Poerbandono, Ward, P.J., **Julian, M.M.** (2009). Set up and calibration of a spatial tool for simulating latest decades’ flow discharge of western Java: Preliminary result and assessments. ITB J. Eng. Sci. Vol. 41, No. 1, 50-64.](http://journal.itb.ac.id/index.php?li=article_detail&id=331RL)
+
 >
 
 #### Proceedings and presentations:
