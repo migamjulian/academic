@@ -12,7 +12,9 @@ weight = 5
   interests = [
     "Geodesy",
     "GIS",
-    "Hydrology"
+    "Hydrological modelling", 
+    "Watershed hydrography", 
+    "Water resources in coastal areas and small islands"
   ]
 
 # List your qualifications (such as academic degrees).
