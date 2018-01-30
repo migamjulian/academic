@@ -16,9 +16,7 @@ weight = 60
 +++
 
 ### Usulan Topik Tugas Akhir (TA) 
- Program Studi Teknik Geodesi dan Geomatika
- Fakultas Ilmu dan Teknologi Kebumian – Institut Teknologi Bandung
- Versi: Januari 2018
+ Program Studi Teknik Geodesi dan Geomatika, Fakultas Ilmu dan Teknologi Kebumian – Institut Teknologi Bandung (Versi: Januari 2018)
 
 #### 1.	Dampak sedimentasi dari Daerah Aliran Sungai (DAS) Cimanuk terhadap garis pangkal di Kabupaten Indramayu (Kolaborasi: Eka Djunarsjah, Wiwin Windupranata KK RWPLM). Riset ini dapat dipecah menjadi tiga TA:
 ##### a.	Pemodelan erosi-sedimentasi dari DAS Cimanuk 
