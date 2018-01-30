@@ -15,6 +15,23 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+Usulan Topik Tugas Akhir (TA) 
+Program Studi Teknik Geodesi dan Geomatika
+Fakultas Ilmu dan Teknologi Kebumian – Institut Teknologi Bandung
+Versi: Januari 2018
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+1.	Dampak sedimentasi dari Daerah Aliran Sungai (DAS) Cimanuk terhadap garis pangkal di Kabupaten Indramayu (Kolaborasi: Eka Djunarsjah, Wiwin Windupranata KK RWPLM). Riset ini dapat dipecah menjadi tiga TA:
+	Pemodelan erosi-sedimentasi dari DAS Cimanuk 
+	Pemodelan numerik hidro-dinamika di estuari Sungai Cimanuk (Kolaborasi supervisi: Wiwin Windupranata, KK RWPLM windu@gd.itb.ac.id)
+	Analisis aspek spasial (fisik), legal, sosial, dan ekonomi dampak sedimentasi dari Daerah Aliran Sungai (DAS) Cimanuk terhadap garis pangkal di Kabupaten Indramayu (Kolaborasi supervisi: Eka Djunarsjah, KK RWPLM ekadj@gd.itb.ac.id)
+2.	Analisis dampak alami dan antropogenik pada sumber daya air di Pulau Pramuka, Kepulauan Seribu (Kolaborasi supervisi: Poerbandono, KK RWPLM poerbandono@gd.itb.ac.id)
+3.	Integrasi model hidrologi dan model hidro-dinamika untuk mengestimasi dampak genangan banjir 
+4.	Model hidrologi daerah perkotaan: Penerapan jaringan drainase buatan pada model hidrologi
+5.	Sistem informasi parameter-parameter hidrologi pada lingkungan Daerah Aliran Sungai
+6.	Pemodelan hidrologi wilayah pesisir untuk memetakan batas-batas potensi air tawar dan air payau di wilayah pesisir
+7.	Pemetaan potensi hidropower di Indonesia menggunakan data geospasial dan iklim global (Kolaborasi supervisi: Ruri Wahyuono, Teknik Fisika ITS ruri_tf014@yahoo.com).
+
+Bagi mahasiswa tingkat akhir yang berminat dapat menghubungi:
+Miga Magenika Julian (miga@gd.itb.ac.id; miga.m.julian@gmail.com)
+Kelompok Keahlian Rekayasa Wilayah Pesisir, Laut dan Maritim (KK RWPLM), FITB-ITB
+
