@@ -19,9 +19,9 @@ weight = 60
  Program Studi Teknik Geodesi dan Geomatika, Fakultas Ilmu dan Teknologi Kebumian – Institut Teknologi Bandung (Versi: Januari 2018)
 
 1.	Dampak sedimentasi dari Daerah Aliran Sungai (DAS) Cimanuk terhadap garis pangkal di Kabupaten Indramayu (Kolaborasi: Eka Djunarsjah, Wiwin Windupranata KK RWPLM). Riset ini dapat dipecah menjadi tiga TA:
-a.	Pemodelan erosi-sedimentasi dari DAS Cimanuk 
-b.	Pemodelan numerik hidro-dinamika di estuari Sungai Cimanuk (Kolaborasi supervisi: Wiwin Windupranata, KK RWPLM windu@gd.itb.ac.id)
-c.	Analisis aspek spasial (fisik), legal, sosial, dan ekonomi dampak sedimentasi dari Daerah Aliran Sungai (DAS) Cimanuk terhadap garis pangkal di Kabupaten Indramayu (Kolaborasi supervisi: Eka Djunarsjah, KK RWPLM ekadj@gd.itb.ac.id)
+(a)	Pemodelan erosi-sedimentasi dari DAS Cimanuk 
+(b)	Pemodelan numerik hidro-dinamika di estuari Sungai Cimanuk (Kolaborasi supervisi: Wiwin Windupranata, KK RWPLM windu@gd.itb.ac.id)
+(c)	Analisis aspek spasial (fisik), legal, sosial, dan ekonomi dampak sedimentasi dari Daerah Aliran Sungai (DAS) Cimanuk terhadap garis pangkal di Kabupaten Indramayu (Kolaborasi supervisi: Eka Djunarsjah, KK RWPLM ekadj@gd.itb.ac.id)
 2.	Analisis dampak alami dan antropogenik pada sumber daya air di Pulau Pramuka, Kepulauan Seribu (Kolaborasi supervisi: Poerbandono, KK RWPLM poerbandono@gd.itb.ac.id)
 3.	Integrasi model hidrologi dan model hidro-dinamika untuk mengestimasi dampak genangan banjir 
 4.	Model hidrologi daerah perkotaan: Penerapan jaringan drainase buatan pada model hidrologi
