@@ -36,7 +36,7 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-#### Peer-reviewed publications:
+#### Publications:
 
 > * [Poerbandono, **Julian, M.M.**, Ward, P.J. (2014). Assessment of the effects of climate and land cover changes on river discharge and sediment yield, and an adaptive spatial planning in the Jakarta region. Natural Hazards Sept. 2014, Vol. 3, Issue 2, pp 507-530.](http://link.springer.com/10.1007/s11069-014-1083-x)
 
@@ -46,7 +46,11 @@ exclude_selected = false
 
 > * [**Julian, M.M.**, Nishio, F., Poerbandono, Ward, P.J. (2011). Simulation of River Discharges in Major Watersheds of North-Western Java from 1901 to 2006. Intl. J. of Tech. 2011 Vol. 2 Issue 1, 37-46.](http://www.ijtech.eng.ui.ac.id/index.php/journal/article/view/44)
 
+> * [**Julian, M.M.**, Nishio, F., Poerbandono, Ward, P.J. (2010). Effects of Land Use Planning in Perpres 54/2008 on River Discharges. INOVASI Vol. 18 (XXII), 44-47.](https://issuu.com/inovasi-ppijepang/docs/inovasi-vol18-nov2010)
+
 > * [Poerbandono, Ward, P.J., **Julian, M.M.** (2009). Set up and calibration of a spatial tool for simulating latest decades’ flow discharge of western Java: Preliminary result and assessments. ITB J. Eng. Sci. Vol. 41, No. 1, 50-64.](http://journal.itb.ac.id/index.php?li=article_detail&id=331RL)
+
+> * [Soeryamihardja, R.D., Sedayu, P.M., Yusfania, M., **Julian, M.M.** (2008). Positioning Aspect, Mapping and Geographic Information System and the Problems in Supplement to Coordinate System Elements - Case Study: Erosion Model of Citarum Watershed. Globe Vol. 10, No 1, 60-68 (in Bahasa).](http://jurnal.big.go.id/index.php/GL/article/view/322)
 
 #### Proceedings and presentations:
 
