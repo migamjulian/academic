@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Friedrich-Schiller University of Jena", url = "http://www.geographie.uni-jena.de/Julian.html" }, { name = "Bandung Institute of Technology", url = "https://www.itb.ac.id/staff/view/miga-magenika-julian-swe" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "miga.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "miga4.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "miga-magenika.julian@uni-jena.de"
   address = "Lehrstuhl für Geoinformatik, Room 125, Grietgasse 6, 07743 Jena, Germany"
   office_hours = "Always"
