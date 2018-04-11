@@ -20,12 +20,12 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "MEng in Geodesy and Geomatics"
-  institution = "Bandung Institute of Technology, Chiba University"
+  institution = "Bandung Institute of Technology, Indonesia - Chiba University, Japan"
   year = 2011
 
 [[education.courses]]
   course = "BEng in Geodesy and Geomatics"
-  institution = "Bandung Institute of Technology"
+  institution = "Bandung Institute of Technology, Indonesia"
   year = 2008
  
 +++
