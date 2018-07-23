@@ -38,9 +38,9 @@ filter_default = 0
 
 +++
 
-* **2018 (on going) - GIS Specialist:** Tourism Infrastructure Planning: A GIS-Supported Approach.
-
 * **2018 (on going) - Hydrologist:** Inundation Model in Open Green Space.
+
+* **2018 - GIS Specialist:** Tourism Infrastructure Planning: A GIS-Supported Approach.
 
 * **2017 - GIS Specialist:** *Masterplan Pengembangan Kawasan di Koridor Jalan Tol* (Toll Corridor Development/TCD).
 
