@@ -16,7 +16,7 @@ weight = 60
 +++
 ### Supervision
 
-2018 (on going). Undergraduate thesis. Ilfa Kurniati Mahdalena (15114015). Estimation of Sediment Export to Patimban Area, Eretan Bay, North of West Java. Supervisors: Poerbandono, Miga Magenika Julian.
+* ** 2018 (on going). Undergraduate thesis. Ilfa Kurniati Mahdalena (15114015). Estimation of Sediment Export to Patimban Area, Eretan Bay, North of West Java. Supervisors: Poerbandono, Miga Magenika Julian.
 
 ### Usulan Topik Tugas Akhir (TA) 
  Program Studi Teknik Geodesi dan Geomatika, Fakultas Ilmu dan Teknologi Kebumian – Institut Teknologi Bandung (Versi: Januari 2018)
