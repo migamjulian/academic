@@ -56,7 +56,7 @@ exclude_selected = false
 
 #### Proceedings and presentations:
 
-> * Ismail, I., Akbar, D.A., Putri, G.K., Jannah, R.H., Wahyuono, R.A., Kurniawan, A.,  **Julian, M.M.** (in preparation). Solar Power System Desıgn Usıng Long-Term Clımatologıcal Data For Ecologıcal Conservatıon. The Engineering Physics International Conference 2018, 31 Oct-2 Nov 2018, Surabaya, Indonesia.
+> * Ismail, I., Wahyuono, R.A., **Julian, M.M.**, Putri, G.K., Hantoro, R.,  Kurniawan, A., Jannah, R.H., Nugroho, G. (submitted). Grid-Connected and Off-Grid Solar PV System Design Using Long-term Climatological Data and Techno-Economic Analysis for Ecological Conservation. The Engineering Physics International Conference 2018, 31 Oct-2 Nov 2018, Surabaya, Indonesia.
 
 > * **Julian, M.M.**, Fink, M., Kralisch, S., Brenning, A. (2017). Hydrological Responses over the Upper Citarum Basin Based on the Spatial Plan of West Java Province 2029. The Third International Conference on Sustainable Infrastructure and Built Environment (SIBE 2017), 26-27 September 2017, Bandung, Indonesia.
 
