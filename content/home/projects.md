@@ -37,8 +37,9 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
+* **2019 (on going) - GIS Specialist:** Feasibility Study Kota Wana - Kabupaten Karawang (Grand Karawang City).
 
-* **2018 (on going) - Hydrologist:** Inundation Model in Open Green Space.
+* **2018 - Hydrologist:** Inundation Model in Open Green Space.
 
 * **2018 - GIS Specialist:** Tourism Infrastructure Planning: A GIS-Supported Approach.
 
